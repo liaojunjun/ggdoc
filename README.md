@@ -27,7 +27,7 @@ ui设计 设计总览.md 项目设计需求.md
 使用：
 
 ```cmd
-ggdoc nav.txt
+ggdoc nav
 ```
 
 你将会看到创建了`root`文件夹及子文件夹/文件和`doc.html`。
