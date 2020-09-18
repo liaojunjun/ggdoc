@@ -1,0 +1,53 @@
+{
+  "_from": "ggdoc",
+  "_id": "ggdoc@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-SJ/1l2BMl7qY5JZDL5txNiuz2Q1HJkwxINr3e0oo1e3oJUJd15JqiXDr7jmFBpGl/9/dUAUUhCCgzpuCL5DJWw==",
+  "_location": "/ggdoc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ggdoc",
+    "name": "ggdoc",
+    "escapedName": "ggdoc",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaojunjun/ggdoc.git"
+  },
+  "homepage": "https://github.com/liaojunjun/ggdoc",
+  "_resolved": "https://registry.npmjs.org/ggdoc/-/ggdoc-1.0.6.tgz",
+  "_shasum": "0a4574a53374bf45d7a0e1a3ca6f6039c4f1f5e7",
+  "_spec": "ggdoc",
+  "_where": "G:\\homework",
+  "author": {
+    "name": "sunyi"
+  },
+  "bin": {
+    "ggdoc": "bin/ggdoc.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "^5.1.0",
+    "highlight.js": "^10.2.0",
+    "marked": "^1.1.1"
+  },
+  "deprecated": false,
+  "description": "doc",
+  "keywords": [
+    "doc"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ggdoc",
+  "private": false,
+  "version": "1.0.6"
+}
